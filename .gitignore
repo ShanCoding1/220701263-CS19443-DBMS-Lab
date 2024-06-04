@@ -6,6 +6,8 @@
 .pnp.js
 /CODE/.idea
 /CODE/.next
+/CODE/backend/__pycache__
+/CODE/backend/venv
 
 # testing
 /coverage
